@@ -243,7 +243,7 @@ We welcome contributions! Please follow these steps:
 
 **⭐ Star this repository if you find it helpful!**
 
-Made with ❤️ by [Your Name](https://github.com/Jojoba96)
+Made with ❤️ by [Jojoba96](https://github.com/Jojoba96)
 
 [⬆ Back to Top](#-gia---modern-e-commerce-platform)
 
