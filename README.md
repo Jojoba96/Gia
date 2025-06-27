@@ -1,3 +1,4 @@
+<a id="top"></a>
 # 🛍️ Gia - Modern E-Commerce Platform
 
 <div align="center">
@@ -245,6 +246,6 @@ We welcome contributions! Please follow these steps:
 
 Made with ❤️ by [Jojoba96](https://github.com/Jojoba96)
 
-[⬆ Back to Top](#-gia---modern-e-commerce-platform)
+[🔝 Back to Top](#top)
 
 </div>
