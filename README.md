@@ -230,23 +230,6 @@ We welcome contributions! Please follow these steps:
 
 ---
 
-## 📞 Support
-
-Need help? We're here for you!
-
-- 📧 **Email**: support@gia-ecommerce.com
-- 💬 **Discord**: [Join our community](https://discord.gg/gia)
-- 📖 **Wiki**: [Documentation](https://github.com/yourusername/gia/wiki)
-- 🐛 **Issues**: [Report bugs](https://github.com/yourusername/gia/issues)
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🙏 Acknowledgments
 
 - **BoxIcons** for the beautiful icon set
@@ -260,7 +243,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ Star this repository if you find it helpful!**
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [Your Name](https://github.com/Jojoba96)
 
 [⬆ Back to Top](#-gia---modern-e-commerce-platform)
 
